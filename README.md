@@ -1,4 +1,5 @@
 # Efbe.py
+-baru rilis
 $ pkg update 
 $ pkg upgrade 
 $ pkg install python2
